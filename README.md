@@ -1,4 +1,4 @@
-# Template repo for SONiC PoC Repos
+# Proof-of-Concept - Elastic with Dell Enterprise SONiC
 
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](#-how-to-contribute)
