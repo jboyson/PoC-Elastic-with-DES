@@ -20,7 +20,7 @@ Welcome! In this proof-of-concept we'll be looking at using Elasstiflow with Del
 
 ## 🚀 Description and Objective
 
-The purpose of this PoC is to get a better understanding of how we can enrich and visualize data collected from netwroking devices running DEll Enterprise SONiC. Data collected during this is experiment is meant to be used for network engineers to implement strategies to optimize the flow of network traffic, reducing latency, balancing load across network paths, and ensuring the most efficient use of available resources.
+The purpose of this proof of concept is to get a better understanding of how we can enrich and visualize data collected from netwroking devices running DEll Enterprise SONiC. Data collected during this is experiment is meant to be used for network engineers to implement strategies to optimize the flow of network traffic, reducing latency, balancing load across network paths, and ensuring the most efficient use of available resources.
 
 ## 📋 Requirements
 
