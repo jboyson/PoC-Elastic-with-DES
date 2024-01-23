@@ -9,9 +9,7 @@ Built and maintained by [Ben Goldstone](https://github.com/benjamingoldstone/) a
 
 ------------------
 
-This is the template repo for Dell Enterprise SONiC Proof-of-Concept repos. Adopt this repo as you see fit to meet your needs as you build out a reference PoC repo.
-
-The formatting here should be basically maintained, with the source code in the src folder and an appropriate LICENCE and CONTRIBUTING guide available inline in the README or as separate files within the repo.
+Welcome! In this proof-of-concept we'll be looking at using Elasstiflow with Dell Enterprise SONiC.
 
 ## Contents
 
@@ -22,7 +20,7 @@ The formatting here should be basically maintained, with the source code in the 
 
 ## 🚀 Description and Objective
 
-Welcome! In this proof-of-concept we'll be looking at using Elasstiflow with Dell Enterprise SONiC version 4.2.0. The purpose of this PoC is to get a better understanding of how we can enrich and visualize data collected from netwroking devices running DEll Enterprise SONiC. Data collected during this is experiment is meant to be used for network engineers to implement strategies to optimize the flow of network traffic, reducing latency, balancing load across network paths, and ensuring the most efficient use of available resources.
+The purpose of this PoC is to get a better understanding of how we can enrich and visualize data collected from netwroking devices running DEll Enterprise SONiC. Data collected during this is experiment is meant to be used for network engineers to implement strategies to optimize the flow of network traffic, reducing latency, balancing load across network paths, and ensuring the most efficient use of available resources.
 
 ## 📋 Requirements
 
