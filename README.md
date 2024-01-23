@@ -24,7 +24,7 @@ The purpose of this proof of concept is to get a better understanding of how we 
 
 ## 📋 Requirements
 
-Be sure to list requirements for building and utilizing the example PoC code here. This can include details such as languages / libraries / tools that must be used as well as what platforms the code has been validated to run on (Linux, MacOS, Windows, etc.) Additional details may be added in the README under the src folder.
+This experimental environment was hosted in a lab with a pair of Dell S5248ON-F switches and a single z9264-ON switch. The Elastic stack was installed using the instructions outlined in the Elastiflow documentation referenced here - https://docs.elastiflow.com/docs/data_platforms/elastic/install_ubuntu. The same envrionment can be created using Dell Enterprise SONiC GNS3 switch images.  
 
 
 ## 👏 How to Contribute
