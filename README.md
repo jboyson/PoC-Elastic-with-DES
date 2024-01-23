@@ -22,8 +22,7 @@ The formatting here should be basically maintained, with the source code in the 
 
 ## 🚀 Description and Objective
 
-Use this space to provide clarity around what the objective of the PoC is and what the end result of successfully running through the exercise should look like.
-
+Welcome! In this proof-of-concept we'll be looking at using Elasstiflow with Dell Enterprise SONiC version 4.2.0. The purpose of this PoC is to get a better understanding of how we can enrich and visualize data collected from netwroking devices running DEll Enterprise SONiC. Data collected during this is experiment is meant to be used for network engineers to implement strategies to optimize the flow of network traffic, reducing latency, balancing load across network paths, and ensuring the most efficient use of available resources.
 
 ## 📋 Requirements
 
